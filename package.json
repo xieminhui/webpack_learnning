@@ -1,0 +1,27 @@
+{
+  "name": "webpack_learnning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xieminhui/webpack_learnning.git"
+  },
+  "author": "xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xieminhui/webpack_learnning/issues"
+  },
+  "homepage": "https://github.com/xieminhui/webpack_learnning#readme"
+}
