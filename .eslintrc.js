@@ -9,6 +9,10 @@ module.exports = {
         "ecmaVersion": 2016,
         "sourceType": "module"
     },
+    "globals": {
+        __dirname: false,
+        process: false
+    },
     "rules": {
         "indent": 0,
         "linebreak-style": [
@@ -26,8 +30,6 @@ module.exports = {
         "no-unused-vars": [
             'warn'
         ],
-        // "no-undef" : [
-        //     'warn'
-        // ]
+        "no-console": 0
     }
 };
